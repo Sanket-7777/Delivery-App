@@ -1,0 +1,24 @@
+.items{
+   display:flex;
+   justify-content: space-between;
+   margin: 1rem;
+   padding-bottom: 1rem;
+   border-bottom: 1px solid #ccc;
+}
+
+.items h3{
+    font-family:'Lucida Sans';
+    font-weight: bold;
+    margin: 0 0 0.25rem 0;
+   
+}
+.price{
+    margin-top: 0.25rem;
+    font-size: 1.25rem;
+    color: maroon;
+    font-weight: 700;
+}
+
+.quantity{
+    font-weight: 400;
+}
